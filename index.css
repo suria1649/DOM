@@ -2,3 +2,30 @@
   color:blue;
 
 }
+
+.parent{
+  display:flex;
+  justify-content: center;
+}
+
+.counter-header{
+  display: flex;
+  justify-content: center;
+}
+
+button{
+  background-color: green;
+  font-size: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  border-radius: 50%;
+}
+
+.value{
+  display: flex;
+  font-size: 50px;
+  justify-content: middle;
+}
